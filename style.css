@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    line-height: 1.6;
+    /* background-color: rgb(120, 129, 129); */
+    
+}
+.HOME img{
+    width: 100%;
+    height: 550px;
+}
+.INTRO{
+    margin-left: 40%;
+    display: inline-block;
+    width: auto;
+}
+.inner_intro{
+    text-align: center;
+}
+.INTRO img{  
+    height: 250px;
+}
+
+.C,.JAVASCRIPT,.DSA,.HTML,.CSS{
+   width: auto;
+   display: inline-block;
+    margin: 30px;
+}
+
+.SKILLS img{
+    height: 130px;
+}
+.inner_skills{
+    text-align: center;
+}
+.SKILLS H2{
+    margin-left: 36.5%;
+    margin-bottom: 10px;
+}
+.SKILLS{
+    margin-left: 15%;
+    margin-top: 70px;
+}
+.CONTACT img{
+    height: 40px;
+}
+.CONTACT{
+    position: relative;
+}
+
+.whatsapp,.instagram,.linkedin{
+    display: inline-block;
+}
+.whatsapp{
+    left: 20%;
+   position: absolute;
+}
+.linkedin{
+    left: 49%;
+    position: absolute;
+}
+.instagram{
+    right: 20%;
+    position: absolute;
+}
+.CONTACT h2{
+ margin-top: 50px;
+ margin-bottom: 60px;
+ text-align: center;
+   
+}
+.footer{
+    margin-top: 100px;
+}
+.NAVBAR a{
+    margin-left: 10px;
+    margin-right: 30px;
+}
+.NAVBAR{
+    position: absolute;
+    position: fixed;
+    right: 0px;
+}
+.NAVBAR a{
+    color: rgb(44, 186, 188);
+}
